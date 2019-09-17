@@ -1,0 +1,43 @@
+-guestbook-: гостевая книга
+date: Дата
+-name-: название
+middle name: второе имя
+surfname: surfname
+email: Эл. адрес
+who invited you: кто тебя пригласил?
+building number: номер здания
+street: улица
+phone number: номер телефона
+city: город
+state: государство
+zipcode: почтовый индекс
+all rights reserved: все права защищены
+send: Отправить
+sign up: Подписаться
+view guestbook: просмотреть гостевую книгу
+thanks for coming!: спасибо, что пришли!
+index: индекс
+save: спасти
+show list: показать список
+pick language: pick language
+gostevaya kniga
+Data
+nazvaniye
+vtoroye imya
+surfname
+El. adres
+kto tebya priglasil?
+nomer zdaniya
+ulitsa
+nomer telefona
+gorod
+gosudarstvo
+pochtovyy indeks
+vse prava zashchishcheny
+Otpravit'
+Podpisat'sya
+prosmotret' gostevuyu knigu
+spasibo, chto prishli!
+indeks
+spasti
+pokazat' spisok

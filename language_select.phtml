@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Select Language GuestBook</title>
+	<meta name="description" description="This is the web interface for the toastmasters guessbook"/>
+   <link href="css/style.css" title="style" type="text/css" rel="stylesheet" rev="stylesheet" media="all" />
+	<script language="javascript" src="js/script.js"></script>
+	<base url="http://jesusinhouse:8989/"/>
+</head>
+<body>
+<p align="center">
+   <a href="index.php?page=new_entry">
+      <?php echo $translation->translate('sign up');?>
+   </a> | 
+   <?php echo "<a class='footer' 
+         href='mailto:gmanon@comcast.net?subject=Guestbook$entry&send=send'>"
+         .$translation->translate('send')."</a> | ";?>
+<?php echo "<a class='footer' href='index.php?page=pick_language'>"
+         .$translation->translate('pick language')."</a> 
+   | <a href='index.php?page=show_list'>"
+.$translation->translate('show list');?></a></p>
+
+<blockquote class="container">
+<div class="center">
+   <p class="guestbook"><?php echo $translation->translate('thanks for coming!');?> </p>
+	<form class="guestbook" name="select_language" action="_self" enctype="application/x-www-form-urlencoded" medthod="get">
+   <div class="language">
+      <label class="name_name"><?php echo $translation->translate('languages');?>: </label><br />
+      <select name="language" width="36" class="guestbook" required value="">
+         <option value="en_US">English</option>
+         <option value="af_African">African</option>
+         <option value="ar_Arabe">Arabe</option>
+         <!--<option value="fr_FR">French</option>-->
+         <option value="en_US">English</option>
+         <option value="es_DR">Spanish</option>
+         <option value="hi_India">Hindi</option>
+         <option value="mi_Malay">Malay</option>
+         <option value="ru_SU">Russian</option>
+         <option value="zh_TH">Chinese Traditional</option>
+      </select>
+   </div>
+  
+   <div class="submit">
+      <input class="submit" type="submit" name="guestbook" value="<?php echo $translation->translate('save');?>"/>
+   </div>
+</form>
+</div>
+</blockquote>
+	</div><!-- end of content -->
+	<footer class="footer"><?php echo $translation->translate('all rights reserved');?></footer><!--end of footer-->
+</body>
+</html>
+

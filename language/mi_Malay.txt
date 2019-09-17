@@ -1,0 +1,22 @@
+-guestbook-: Buku pelawat
+date: Sejarah
+name: Nama
+lastname: Nama tengah
+middle name: Nama samaran
+email: E-mel
+who invited you: Siapa yang menjemput anda?
+building number: Nombor bangunan
+street: Jalan
+phone number: Nombor telefon
+city: City
+state: Kes
+zipcode: Kod zip
+all rights reserved: Semua hak terpelihara
+send: Hantar
+sign up: Rekod
+view guestbook: Lihat buku tamu
+thanks for coming!: Terima kasih kerana datang
+index: Indeks
+save: Simpan
+show list: Paparan senarai
+pick language: pick language

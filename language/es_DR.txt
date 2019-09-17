@@ -1,0 +1,27 @@
+english: ingles
+spanish: espanol
+-guestbook-: invitados
+date: fecha
+-name-: nombre
+middle name: segundo nombre
+lastname: apellido
+email: correo electronico
+who invited you: quien te invito?
+building number: numero de edificio
+street: calle
+phone number: numero de telefono
+city: ciudad
+state: estado
+zipcode: zona postal
+all rights reserved: Todos los derechos reservados
+send: envie
+sign up: firme
+view guestbook: mire libro de invitados
+thanks for coming!: gracias por venir
+index: indice
+save: salve
+show list: muestre lista
+phone no.: numero de telefono
+building no.: numero de edificio
+inviter: invitador
+pick language: escoja idioma

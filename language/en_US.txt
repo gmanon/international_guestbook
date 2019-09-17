@@ -1,0 +1,22 @@
+-guestbook-: guestbook
+date: date
+-name-: name
+middle name: middle name
+surfname: surfname
+email: email
+who invited you: who invited you?
+building number: building
+street: street
+phone number: phone
+city: city
+state: state
+zipcode: zip-code
+all rights reserved: all rights reserved
+send: send
+sign up: sing up
+view guestbook: view guestbook
+thanks for coming!: thanks for coming!
+index: index
+save: save
+show list: show list
+pick language: pick language

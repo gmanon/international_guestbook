@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title><?php echo $translation->translate('-guestbook-');?></title>
+	<meta name="description" description="This is the web interface for the toastmasters guessbook"/>
+   <link href="css/style.css" title="style" type="text/css" rel="stylesheet" rev="stylesheet" media="all" />
+	<script language="javascript" src="js/script.js"></script>
+	<base url="http://jesusinhouse:8989/"/>
+</head>
+<body>
+<p align="center">
+   <a href="index.php?page=new_entry">
+      <?php echo $translation->translate('sign up');?>
+   </a> | 
+   <?php echo "<a class='footer' 
+         href='mailto:gmanon@comcast.net?subject=Guestbook$entry&send=send'>"
+         .$translation->translate('send')."</a> | ";?>
+<?php echo "<a class='footer' href='index.php?page=pick_language'>"
+         .$translation->translate('pick language')."</a> 
+   | <a href='index.php?page=show_list'>"
+.$translation->translate('show list');?></a></p>
+
+<blockquote class="container">
+<div class="left front">
+
+		<h1><?php echo $translation->translate('-guestbook-');?></h1>
+
+</div>
+<div class="right">
+   <p class="guestbook"><?php echo $translation->translate('thanks for coming!');?> </p>
+	<form class="guestbook" name="guestbook" action="_self" enctype="application/x-www-form-urlencoded" medthod="get">
+
+         <label class="name_name">
+            <?php echo $translation->translate('date');?>:
+         </label><br />
+	     <input type="date" name="date" required width="36" 
+         class="guestbook" 
+         value="<?php echo date("d-M-Y");?>"><br />
+
+	  <label class="name_name"><?php echo $translation->translate('-name-');?>: </label>
+	  <input type="text" name="name" required width="36" 
+      class="guestbook" value="">
+
+<br />
+   <label class="email"><?php echo $translation->translate('email');?>: </label><br />
+	<input type="email" name="email" width="36" required class="guestbook" value=""><br />
+   <label class="who"> <?php echo $translation->translate('who invited you');?>: </label><br />
+	<input type="text" autocomplete required name="enviter" width="36" class="guestbook" value=""><br />
+   <div class="building">
+      <label class="building"><?php echo $translation->translate('building number');?>: </label><br />
+      <input type="number" name="building_no" class="guestbook" value="">
+   </div>
+   <div class="street">
+      <label class="name_name"><?php echo $translation->translate('street');?>: </label><br />
+      <input type="text" name="street_name" width="36" class="guestbook" value="">
+   </div>
+   <div class="phone">
+      <label class="name_name"><?php echo $translation->translate('phone number');?>: </label><br />
+	   <input type="tel" name="phone_no" width="36" class="guestbook" value=""><br />
+   </div>
+   <div class="city">
+      <label class="name_name"><?php echo $translation->translate('city');?>: </label><br />
+      <select name="city" width="36" class="guestbook" required value="">
+      <?php include_once "cityb.txt";?>
+      </select>
+   </div>
+   <div class="state">
+      <label class="name_name"><?php echo $translation->translate('state');?>: </label><br />
+      <select name="state" width="36" class="guestbook" required value="">
+      <?php include_once "state.txt";?>
+      </select>
+   </div>
+   <div class="submit">
+      <input class="submit" type="submit" name="submit" value="<?php echo $translation->translate('save');?>"/>
+   </div>
+</form>
+</div>
+</blockquote>
+	</div><!-- end of content -->
+	<footer class="footer"><?php echo $translation->translate('all rights reserved');?></footer><!--end of footer-->
+</body>
+</html>
+

@@ -1,0 +1,44 @@
+سجل الزوار-guestbook-: 
+تاريخdate:
+اس-name-: 
+الاسم الوسطىmidle name: 
+الكنيةsurfname: 
+البريد الإلكترونيemail: 
+من دعاك؟who invited you: 
+رقم المبنىbuilding number: 
+شارعstreet: 
+رقم الهاتفphone: 
+مدينةcity: 
+حالةstate: 
+الرمز البريديzipcode: 
+كل الحقوق محفوظةall rights reserved: 
+إرسالsend: 
+سجلsign up: 
+عرض سجل الزوارview guestbook: 
+شكرا لقدومك!Thanks for coming: 
+فهرسindex: 
+حفظsave: 
+عرض قsائمةshow list: 
+pick language: pick language
+
+sajal alzuwwar
+tarikh
+aism
+alaism alwustaa
+alkuniya
+albarid al'iiliktruniu
+min daeak?
+raqm almabnaa
+sharie
+raqm alhatif
+madina
+hala
+alramz albaridiu
+kl alhuquq mahfuza
+'iirsal
+sajal
+eard sajal alzuwwar
+shukraan laqadumuk!
+faharas
+hifz
+eard qayima

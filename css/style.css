@@ -1,0 +1,192 @@
+/**
+ * Style Sheet for Guestbook
+ * @author: Guillermina Gonjon
+ * @date:   August 18, 2019
+ * @name:   Guestbook
+ */
+div.error{  position: absolute; width: 20%; right:0; top:0; color: #933; 
+            background-color: #ff9; border:1px solid #c99;padding:.4em .8em;
+            font-size: .6em;
+         }
+body     { 
+            background-color: #ffd;
+            font-family: "sanserif";
+            font-size:   1.2em;
+            line-height: 1.8em;
+         }
+a        { color:red; text-decoration: none; 
+           text-transform: uppercase;
+           font-size:0.8em; color: #c99;
+         }
+h5       { margin: 0 auto; font-size: .6em; color:black;}
+select      {
+                -webkit-appearance: none; 
+                -moz-appearance: none; 
+                -ms-appearance: none; 
+                appearance: none; 
+                outline: 0;
+                color: #444; 
+                background: #fff; 
+                background-image: none; 
+                border:1px solid #fff;
+            }
+select.guestbook::after 
+            { 
+                content: '\25BC'; 
+                position: absolute; 
+                top: 0; 
+                right: 0; 
+                bottom: 0; 
+                padding: 0 1em; 
+                background: #34495E; 
+                pointer-events: none; 
+            } 
+option.zipcode { background-color: #fff; color:#333;}
+h1                         { font-size: 4.4em; 
+                              text-align: center;
+                              margin-top: 2.6em;
+                              color: #fff;
+                              text-shadow: 4px 6px #333;
+                           }
+h2,h3                      { color: #669; padding-left:3em;}
+label                      { color: #669; text-transform: uppercase; font-size:small; padding-left:1em;}
+form.guestbook             { padding: 20px; 
+                              
+                              float: none;}
+input, select              { border:1px solid #fff;
+                              border-bottom: 1px solid #666;
+                              webkey-appearance: 
+                               
+                           }
+input.submit               { 
+                              font-weight: bold;
+                              padding:6px 2em; 
+                              border-radius: 10px 10px 8px;     
+                              font-size: 1.2em;
+                              text-transform: uppercase;
+                              background-color: #669;
+                              color: #fff;
+                                         
+                              margin: 1em 0;
+                           }
+.left.front     {
+                              width: 49%;
+                              border:1px solid #666;
+                              float: left;
+                              border-radius: 15px 0px 0px 15px;
+                              /*background-color: #669;*/
+                              box-shadow: 1.2em 1em 16px #ccd;
+                              clear:both;
+                              margin-bottom: 3em;
+                              /*background-image: url("../images/blue.jpg");*/
+                              background-image: url("../images/yellow.jpg");
+                              background-repeat: no-repeat;
+
+                           }
+div.left           {
+                              width: 49%;
+                              border:1px solid #666;
+                              float: left;
+                              border-radius: 15px 0px 0px 15px;
+                              background-color: #fff;
+                              box-shadow: 1.2em 1em 16px #ccd;
+                              clear:both;
+                              margin-bottom: 3em;
+                              /*background-image: url("../images/blue.jpg");*/
+
+                           }
+.left,.right               { 
+                              max-height: 710px;
+                              min-height: 700px;
+                              
+                           }
+div.center                    { width: 70%; margin: auto; float: none;}
+span.left-arrow,
+span.right-arrow           { font-size: 2em; } 
+span.left-arrow            { float: left; }
+span.right-arrow           { float: right; }
+
+div.left.list p, 
+div.right blockquote p,div.center
+                           { border-top: 4px dotted #99c;
+                             margin-top: 6px;
+                             padding-top: .5em;    
+                             font-size: .80em;
+               
+                           }
+div.left.list p:first-child, 
+div.right blockquote 
+p:first-child
+                           { border-top: none;
+                             margin-top: 6px;
+                             padding-top: .5em; 
+                           }
+div.left.list, div.left.list p
+                           { 
+                              background-color: #fff;
+                              color: #333;                        
+                           }
+.right, td.right           {
+                              width: 49%;
+                              border:1px solid #666;
+                              float: right;
+                              border-radius: 0px 15px 15px 0px;
+                              margin-left:2px;
+                              clear:right;
+                              box-shadow: 1.2em 1em 6px #999;
+                              margin-bottom: 3em;
+                              background-color: #fff;
+                              border-left: 8px solid #ccd;
+                              border-right: 2px solid #666;
+                              border-bottom: 2px solid #666;
+                           }
+
+div.phone                  { 
+                             float: left;
+                             width:100%;
+                           }
+div.building               { width:35%;float: left;}
+div.street                 { width:60%;float: right;clear:right;}
+
+div.city                   { width:65%;float: left;}
+div.state                  { width:30%;float: right;}
+div.submit                 { width:100%;float: none;text-align: center;}
+
+input.date                 { margin-bottom: 0;}
+input.guestbook, select    { float:left;width: 99%; background-color:#fff;}
+p.guestbook                { text-align: center; 
+                             text-transform: uppercase;  
+                             font-size:.8em;
+                             color:#339;
+                             
+                           }
+.guestbook                 { 
+                            
+                            line-height: 1.5em;
+                            padding: 4px 6px;
+                            font-size: 1em;
+                            color: #333;
+                           }
+.box1                      {
+                              float:left; width:47%;
+                              padding:1em;border:1px solid #ddd;
+                              margin-bottom: 3em;
+                           }
+.box2                      {
+                              float:right; width:47%; 
+                              padding:1em; border:1px solid #ddd;
+                              margin-bottom: 3em;
+                           }
+.guestbook, select
+.guestbook                  {  }
+select option.zipcode       { color: #333; }
+blockquote.container        { padding: 0 5%;/*border: 1px solid #333;*/
+                              z-index: -1;width:90%; height:700px;
+                              /*background-color:#333;*/
+                            }
+
+p b                         { color: #669;}
+span.nav                    { text-transform: lowercase; font-size: 2em; }
+span.nav a                  {  color:#99c; }
+
+footer                      { vertical-align: bottom; }

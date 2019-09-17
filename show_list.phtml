@@ -1,0 +1,82 @@
+<?php
+require_once "show_list.php";
+?>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Midday Toastmasters GuestBook</title>
+	<meta name="description" description="Guessbook List"/>
+   <link href="css/style.css" title="style" type="text/css" rel="stylesheet" rev="stylesheet" media="all" />
+	<script language="javascript" src="js/script.js"></script>
+	<base url="http://jesusinhouse:8989/"/>
+</head>
+<body>
+<p align="center">
+   <a href="index.php?page=new_entry"><?php echo $translation->translate('sign up');?></a> | 
+   <a class='footer' href='mailto:gmanon@comcast.net?subject=Guestbook$entry&send=send'>
+<?php echo $translation->translate('send');?>:</a> | 
+   <a href="index.php?page=show_list"><?php echo $translation->translate('view guestbook');?>:</a><br />
+      <span class="nav">
+        <a href='index.php?page=show_list&action=0'> &#11244; </a>
+        <a href='index.php?page=show_list&action=<?php echo ($_GET['action']-1);?>'> &#11207; </a>
+        <a href='index.php?page=show_list&action=<?php echo ($_GET['action']+1);?>'> &#11208; </a>
+        <a href='index.php?page=show_list&action=<?php echo ($num_pages+1);?>'> &#11246; </a> <br/>
+      </span>
+</p>
+<blockquote class="container">
+<div class="left list">
+   <blockquote style="color:white">
+   <p class="guestbook">
+      <a href="index.php?page=show_list&action=<?php echo $_GET['action']-1;?>">
+         <span class="left-arrow">&#129088;</span>
+      </a>
+   <?php echo $translation->translate($c->encode('thanks for coming!'));?>
+   </p>
+	<?php 
+      echo "<h5>".
+      $translation->translate('index').", ".
+      $translation->translate('date').", ".
+      $translation->translate('name').", ".
+      $translation->translate('email').", ".
+      $translation->translate('inviter').", ".
+      $translation->translate('phone no.').", ".
+      $translation->translate('building no.').", ".
+      $translation->translate('street').", ".
+      $translation->translate('city').", ".
+      $translation->translate('state')."</h5>";
+ 
+      echo "<font color='#000'>".$left_items."</font>";
+   ?>
+   </blockquote>
+</div>
+<div class="right">
+   <blockquote>
+   <p class="guestbook"><?php echo $translation->translate('thanks for coming!');?>
+      <a href="index.php?page=show_list&action=&action=<?php echo $_GET['action'] +1;?>">
+         <span class="right-arrow">&#129090;</span>
+      </a>
+   </p>
+	<?php 
+       
+      echo "<h5>".
+      $translation->translate('index').", ".
+      $translation->translate('date').", ".
+      $translation->translate('name').", ".
+      $translation->translate('email').", ".
+      $translation->translate('inviter').", ".
+      $translation->translate('phone no.').", ".
+      $translation->translate('building no.').", ".
+      $translation->translate('street').", ".
+      $translation->translate('city').", ".
+      $translation->translate('state')."</h5>";
+
+      echo $right_items;
+
+   ?>
+   </blockquote>
+</div>
+</blockquote>
+	</div><!-- end of content -->
+	<p class="footer"><?php echo $translation->translate('all rights reserved');?></p><!--end of footer-->
+</body>
+</html>

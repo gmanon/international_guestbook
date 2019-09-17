@@ -1,0 +1,23 @@
+-guestbook-: livre d'or
+date: rendez-vous amoureux
+-name-: prénom
+-middle name-: deuxième nom
+lastname: nom de surf
+email: email
+who invited you: qui vous a invité?
+building number: numéro du bâtiment
+street: rue
+phone no: numéro de téléphone
+city: ville
+state: Etat
+zipcode: code postal
+all rights reserved: tous les droits sont réservés
+send: envoyer
+sign up: s'inscrire
+view guestbook: voir le livre d'or
+thanks for coming!: Merci d'être venu!
+index: indice
+save: enregistrer
+show list: afficher la liste
+pick language: pick language
+/* ISO 3166-2:FR */

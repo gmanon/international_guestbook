@@ -1,0 +1,44 @@
+-guestbook-: 留言
+date: 日期
+-name-: 名稱
+middle name: 中間名字
+lastname: surfname
+email: 電子郵件
+who invited you: 誰邀請了你？
+building number: 建築數量
+street: 街
+phone number: 電話號碼
+city: 市
+state: 州
+zipcode: 郵政編碼
+all rights reserved: 版權所有
+send: 發送
+sign up: 註冊
+view guestbook: 查看留言板
+thanks for coming!: 感謝你的到來！
+index: 指數
+save: 保存
+show list: 顯示列表
+pick language: pick language
+
+Liúyán
+rìqí
+míngchēng
+zhōngjiān míngzì
+surfname
+diànzǐ yóujiàn
+shuí yāoqǐngle nǐ?
+Jiànzhú shùliàng
+jiē
+diànhuà hàomǎ
+shì
+zhōu
+yóuzhèng biānmǎ
+bǎnquán suǒyǒu
+fāsòng
+zhùcè
+chákàn liúyán bǎn
+gǎnxiè nǐ de dàolái!
+Zhǐshù
+bǎocún
+xiǎnshì lièbiǎo

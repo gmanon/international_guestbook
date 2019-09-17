@@ -1,0 +1,43 @@
+-guestbook-: गेस्टबुक
+date: दिनांक
+-name-: नाम
+middle name: मध्य नाम
+lastname: अंतिम नाम
+email: ईमेल
+who invited you: आप को किसने बुलाया है?
+building number: भवन का नंबर
+street: सड़क
+phone number: फ़ोन नंबर
+city: शहर
+state: राज्य
+zipcode: पिन कोड
+all rights reserved: सर्वाधिकार सुरक्षित
+send: भेजना
+sign up: साइन अप करें
+view guestbook: गेस्टबुक देखें
+thanks for coming!: आने के लिए धन्यवाद!
+index: सूची
+save: बचाना
+show list: सूची दिखाएं
+pick language: pick language
+gestabuk
+dinaank
+naam
+madhy naam
+antim naam
+eemel
+aap ko kisane bulaaya hai?
+bhavan ka nambar
+sadak
+fon nambar
+shahar
+raajy
+pin kod
+sarvaadhikaar surakshit
+bhejana
+sain ap karen
+gestabuk dekhen
+aane ke lie dhanyavaad!
+soochee
+bachaana
+soochee dikhaen

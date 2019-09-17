@@ -1,0 +1,21 @@
+-guestbook-: gasteboek
+date: datum
+-name-: naam
+midle name: middelnaam
+lastname: van
+email: e-pos
+who invited you: wie het jou genooi
+building number: gebou nommer
+street: straat
+phone number: telefoon nommer
+city: Stad
+zipcode: staat Poskode
+all rights reserved: alle regte voorbehou
+send: stuur
+sign up: teken aan
+view guestbook: bekyk gasteboek
+thanks for coming!: dankie dat jy gekom het!
+index: indeks
+save: red
+show list: vertoonlys
+pick language: pick language

@@ -1,0 +1,1423 @@
+<option class="zipcode" value="07001:Avenel:Middlesex">Avenel, Middlesex</option>
+
+<option class="zipcode" value="07002:Bayonne:Hudson">Bayonne, Hudson</option>
+
+<option class="zipcode" value="07003:Bloomfield:Essex">Bloomfield, Essex</option>
+
+<option class="zipcode" value="07004:Fairfield:Essex">Fairfield, Essex</option>
+
+<option class="zipcode" value="07005:Boonton:Morris">Boonton, Morris</option>
+
+<option class="zipcode" value="07006:Caldwell:Essex">Caldwell, Essex</option>
+
+<option class="zipcode" value="07007:Caldwell:Essex">Caldwell, Essex</option>
+
+<option class="zipcode" value="07008:Carteret:Middlesex">Carteret, Middlesex</option>
+
+<option class="zipcode" value="07009:Cedar_Grove:Essex">Cedar Grove, Essex</option>
+
+<option class="zipcode" value="07010:Cliffside_Park:Bergen">Cliffside Park, Bergen</option>
+
+<option class="zipcode" value="07011:Clifton:Passaic">Clifton, Passaic</option>
+
+<option class="zipcode" value="07012:Clifton:Passaic">Clifton, Passaic</option>
+
+<option class="zipcode" value="07013:Clifton:Passaic">Clifton, Passaic</option>
+
+<option class="zipcode" value="07014:Clifton:Passaic">Clifton, Passaic</option>
+
+<option class="zipcode" value="07015:Clifton:Passaic">Clifton, Passaic</option>
+
+<option class="zipcode" value="07016:Cranford:Union">Cranford, Union</option>
+
+<option class="zipcode" value="07017:East_Orange:Essex">East Orange, Essex</option>
+
+<option class="zipcode" value="07018:East_Orange:Essex">East Orange, Essex</option>
+
+<option class="zipcode" value="07019:East_Orange:Essex">East Orange, Essex</option>
+
+<option class="zipcode" value="07020">Edgewater, Bergen</option>
+
+<option class="zipcode" value="07021">Essex Fells, Essex</option>
+
+<option class="zipcode" value="07022">Fairview, Bergen</option>
+
+<option class="zipcode" value="07023">Fanwood, Union</option>
+
+<option class="zipcode" value="07024">Fort Lee, Bergen</option>
+
+<option class="zipcode" value="07026">Garfield, Bergen</option>
+
+<option class="zipcode" value="07027">Garwood, Union</option>
+
+<option class="zipcode" value="07028">Glen Ridge, Essex</option>
+
+<option class="zipcode" value="07029">Harrison, Hudson</option>
+
+<option class="zipcode" value="07030">Hoboken, Hudson</option>
+
+<option class="zipcode" value="07031">North Arlington, Bergen</option>
+
+<option class="zipcode" value="07032">Kearny, Hudson</option>
+
+<option class="zipcode" value="07033">Kenilworth, Union</option>
+
+<option class="zipcode" value="07034">Lake Hiawatha, Morris</option>
+
+<option class="zipcode" value="07035">Lincoln Park, Morris</option>
+
+<option class="zipcode" value="07036">Linden, Union</option>
+
+<option class="zipcode" value="07039">Livingston, Essex</option>
+
+<option class="zipcode" value="07040">Maplewood, Essex</option>
+
+<option class="zipcode" value="07041">Millburn, Essex</option>
+
+<option class="zipcode" value="07042">Montclair, Essex</option>
+
+<option class="zipcode" value="07043">Montclair, Essex</option>
+
+<option class="zipcode" value="07044">Verona, Essex</option>
+
+<option class="zipcode" value="07045">Montville, Morris</option>
+
+<option class="zipcode" value="07046">Mountain Lakes, Morris</option>
+
+<option class="zipcode" value="07047">North Bergen, Hudson</option>
+
+<option class="zipcode" value="07050">Orange, Essex</option>
+
+<option class="zipcode" value="07051">Orange, Essex</option>
+
+<option class="zipcode" value="07052">West Orange, Essex</option>
+
+<option class="zipcode" value="07054">Parsippany, Morris</option>
+
+<option class="zipcode" value="07055">Passaic, Passaic</option>
+
+<option class="zipcode" value="07057">Wallington, Bergen</option>
+
+<option class="zipcode" value="07058">Pine Brook, Morris</option>
+
+<option class="zipcode" value="07059">Warren, Somerset</option>
+
+<option class="zipcode" value="07060">Plainfield, Union</option>
+
+<option class="zipcode" value="07061">Plainfield, Union</option>
+
+<option class="zipcode" value="07062">Plainfield, Union</option>
+
+<option class="zipcode" value="07063">Plainfield, Union</option>
+
+<option class="zipcode" value="07064">Port Reading, Middlesex</option>
+
+<option class="zipcode" value="07065">Rahway, Union</option>
+
+<option class="zipcode" value="07066">Clark, Union</option>
+
+<option class="zipcode" value="07067">Colonia, Middlesex</option>
+
+<option class="zipcode" value="07068">Roseland, Essex</option>
+
+<option class="zipcode" value="07069">Watchung, Somerset</option>
+
+<option class="zipcode" value="07070">Rutherford, Bergen</option>
+
+<option class="zipcode" value="07071">Lyndhurst, Bergen</option>
+
+<option class="zipcode" value="07072">Carlstadt, Bergen</option>
+
+<option class="zipcode" value="07073">East Rutherford, Bergen</option>
+
+<option class="zipcode" value="07074">Moonachie, Bergen</option>
+
+<option class="zipcode" value="07075">Wood Ridge, Bergen</option>
+
+<option class="zipcode" value="07076">Scotch Plains, Union</option>
+
+<option class="zipcode" value="07077">Sewaren, Middlesex</option>
+
+<option class="zipcode" value="07078">Short Hills, Essex</option>
+
+<option class="zipcode" value="07079">South Orange, Essex</option>
+
+<option class="zipcode" value="07080">South Plainfield, Middlesex</option>
+
+<option class="zipcode" value="07081">Springfield, Union</option>
+
+<option class="zipcode" value="07082">Towaco, Morris</option>
+
+<option class="zipcode" value="07083">Union, Union</option>
+
+<option class="zipcode" value="07086">Weehawken, Hudson</option>
+
+<option class="zipcode" value="07087">Union City, Hudson</option>
+
+<option class="zipcode" value="07088">Vauxhall, Union</option>
+
+<option class="zipcode" value="07090">Westfield, Union</option>
+
+<option class="zipcode" value="07091">Westfield, Union</option>
+
+<option class="zipcode" value="07092">Mountainside, Union</option>
+
+<option class="zipcode" value="07093">West New York, Hudson</option>
+
+<option class="zipcode" value="07094">Secaucus, Hudson</option>
+
+<option class="zipcode" value="07095">Woodbridge, Middlesex</option>
+
+<option class="zipcode" value="07096">Secaucus, Hudson</option>
+
+<option class="zipcode" value="07097">Jersey City, Hudson</option>
+
+<option class="zipcode" value="07099">Kearny, Hudson</option>
+
+<option class="zipcode" value="07101">Newark, Essex</option>
+
+<option class="zipcode" value="07102">Newark, Essex</option>
+
+<option class="zipcode" value="07103">Newark, Essex</option>
+
+<option class="zipcode" value="07104">Newark, Essex</option>
+
+<option class="zipcode" value="07105">Newark, Essex</option>
+
+<option class="zipcode" value="07106">Newark, Essex</option>
+
+<option class="zipcode" value="07107">Newark, Essex</option>
+
+<option class="zipcode" value="07108">Newark, Essex</option>
+
+<option class="zipcode" value="07109">Belleville, Essex</option>
+
+<option class="zipcode" value="07110">Nutley, Essex</option>
+
+<option class="zipcode" value="07111">Irvington, Essex</option>
+
+<option class="zipcode" value="07112">Newark, Essex</option>
+
+<option class="zipcode" value="07114">Newark, Essex</option>
+
+<option class="zipcode" value="07175">Newark, Essex</option>
+
+<option class="zipcode" value="07182">Newark, Essex</option>
+
+<option class="zipcode" value="07184">Newark, Essex</option>
+
+<option class="zipcode" value="07188">Newark, Essex</option>
+
+<option class="zipcode" value="07189">Newark, Essex</option>
+
+<option class="zipcode" value="07191">Newark, Essex</option>
+
+<option class="zipcode" value="07192">Newark, Essex</option>
+
+<option class="zipcode" value="07193">Newark, Essex</option>
+
+<option class="zipcode" value="07194">Newark, Essex</option>
+
+<option class="zipcode" value="07195">Newark, Essex</option>
+
+<option class="zipcode" value="07198">Newark, Essex</option>
+
+<option class="zipcode" value="07199">Newark, Essex</option>
+
+<option class="zipcode" value="07201">Elizabeth, Union</option>
+
+<option class="zipcode" value="07202">Elizabeth, Union</option>
+
+<option class="zipcode" value="07203">Roselle, Union</option>
+
+<option class="zipcode" value="07204">Roselle Park, Union</option>
+
+<option class="zipcode" value="07205">Hillside, Union</option>
+
+<option class="zipcode" value="07206">Elizabeth, Union</option>
+
+<option class="zipcode" value="07207">Elizabeth, Union</option>
+
+<option class="zipcode" value="07208">Elizabeth, Union</option>
+
+<option class="zipcode" value="07302">Jersey City, Hudson</option>
+
+<option class="zipcode" value="07303">Jersey City, Hudson</option>
+
+<option class="zipcode" value="07304">Jersey City, Hudson</option>
+
+<option class="zipcode" value="07305">Jersey City, Hudson</option>
+
+<option class="zipcode" value="07306">Jersey City, Hudson</option>
+
+<option class="zipcode" value="07307">Jersey City, Hudson</option>
+
+<option class="zipcode" value="07308">Jersey City, Hudson</option>
+
+<option class="zipcode" value="07309">Jersey City, Hudson</option>
+
+<option class="zipcode" value="07310">Jersey City, Hudson</option>
+
+<option class="zipcode" value="07311">Jersey City, Hudson</option>
+
+<option class="zipcode" value="07395">Jersey City, Hudson</option>
+
+<option class="zipcode" value="07399">Jersey City, Hudson</option>
+
+<option class="zipcode" value="07401">Allendale, Bergen</option>
+
+<option class="zipcode" value="07403">Bloomingdale, Passaic</option>
+
+<option class="zipcode" value="07405">Butler, Morris</option>
+
+<option class="zipcode" value="07407">Elmwood Park, Bergen</option>
+
+<option class="zipcode" value="07410">Fair Lawn, Bergen</option>
+
+<option class="zipcode" value="07416">Franklin, Sussex</option>
+
+<option class="zipcode" value="07417">Franklin Lakes, Bergen</option>
+
+<option class="zipcode" value="07418">Glenwood, Sussex</option>
+
+<option class="zipcode" value="07419">Hamburg, Sussex</option>
+
+<option class="zipcode" value="07420">Haskell, Passaic</option>
+
+<option class="zipcode" value="07421">Hewitt, Passaic</option>
+
+<option class="zipcode" value="07422">Highland Lakes, Sussex</option>
+
+<option class="zipcode" value="07423">Ho Ho Kus, Bergen</option>
+
+<option class="zipcode" value="07424">Little Falls, Passaic</option>
+
+<option class="zipcode" value="07428">Mc Afee, Sussex</option>
+
+<option class="zipcode" value="07430">Mahwah, Bergen</option>
+
+<option class="zipcode" value="07432">Midland Park, Bergen</option>
+
+<option class="zipcode" value="07435">Newfoundland, Passaic</option>
+
+<option class="zipcode" value="07436">Oakland, Bergen</option>
+
+<option class="zipcode" value="07438">Oak Ridge, Passaic</option>
+
+<option class="zipcode" value="07439">Ogdensburg, Sussex</option>
+
+<option class="zipcode" value="07440">Pequannock, Morris</option>
+
+<option class="zipcode" value="07442">Pompton Lakes, Passaic</option>
+
+<option class="zipcode" value="07444">Pompton Plains, Morris</option>
+
+<option class="zipcode" value="07446">Ramsey, Bergen</option>
+
+<option class="zipcode" value="07450">Ridgewood, Bergen</option>
+
+<option class="zipcode" value="07451">Ridgewood, Bergen</option>
+
+<option class="zipcode" value="07452">Glen Rock, Bergen</option>
+
+<option class="zipcode" value="07456">Ringwood, Passaic</option>
+
+<option class="zipcode" value="07457">Riverdale, Morris</option>
+
+<option class="zipcode" value="07458">Saddle River, Bergen</option>
+
+<option class="zipcode" value="07460">Stockholm, Sussex</option>
+
+<option class="zipcode" value="07461">Sussex, Sussex</option>
+
+<option class="zipcode" value="07462">Vernon, Sussex</option>
+
+<option class="zipcode" value="07463">Waldwick, Bergen</option>
+
+<option class="zipcode" value="07465">Wanaque, Passaic</option>
+
+<option class="zipcode" value="07470">Wayne, Passaic</option>
+
+<option class="zipcode" value="07474">Wayne, Passaic</option>
+
+<option class="zipcode" value="07477">Wayne, Passaic</option>
+
+<option class="zipcode" value="07480">West Milford, Passaic</option>
+
+<option class="zipcode" value="07481">Wyckoff, Bergen</option>
+
+<option class="zipcode" value="07495">Mahwah, Bergen</option>
+
+<option class="zipcode" value="07501">Paterson, Passaic</option>
+
+<option class="zipcode" value="07502">Paterson, Passaic</option>
+
+<option class="zipcode" value="07503">Paterson, Passaic</option>
+
+<option class="zipcode" value="07504">Paterson, Passaic</option>
+
+<option class="zipcode" value="07505">Paterson, Passaic</option>
+
+<option class="zipcode" value="07506">Hawthorne, Passaic</option>
+
+<option class="zipcode" value="07507">Hawthorne, Passaic</option>
+
+<option class="zipcode" value="07508">Haledon, Passaic</option>
+
+<option class="zipcode" value="07509">Paterson, Passaic</option>
+
+<option class="zipcode" value="07510">Paterson, Passaic</option>
+
+<option class="zipcode" value="07511">Totowa, Passaic</option>
+
+<option class="zipcode" value="07512">Totowa, Passaic</option>
+
+<option class="zipcode" value="07513">Paterson, Passaic</option>
+
+<option class="zipcode" value="07514">Paterson, Passaic</option>
+
+<option class="zipcode" value="07522">Paterson, Passaic</option>
+
+<option class="zipcode" value="07524">Paterson, Passaic</option>
+
+<option class="zipcode" value="07533">Paterson, Passaic</option>
+
+<option class="zipcode" value="07538">Haledon, Passaic</option>
+
+<option class="zipcode" value="07543">Paterson, Passaic</option>
+
+<option class="zipcode" value="07544">Paterson, Passaic</option>
+
+<option class="zipcode" value="07601">Hackensack, Bergen</option>
+
+<option class="zipcode" value="07602">Hackensack, Bergen</option>
+
+<option class="zipcode" value="07603">Bogota, Bergen</option>
+
+<option class="zipcode" value="07604">Hasbrouck Heights, Bergen</option>
+
+<option class="zipcode" value="07605">Leonia, Bergen</option>
+
+<option class="zipcode" value="07606">South Hackensack, Bergen</option>
+
+<option class="zipcode" value="07607">Maywood, Bergen</option>
+
+<option class="zipcode" value="07608">Teterboro, Bergen</option>
+
+<option class="zipcode" value="07620">Alpine, Bergen</option>
+
+<option class="zipcode" value="07621">Bergenfield, Bergen</option>
+
+<option class="zipcode" value="07624">Closter, Bergen</option>
+
+<option class="zipcode" value="07626">Cresskill, Bergen</option>
+
+<option class="zipcode" value="07627">Demarest, Bergen</option>
+
+<option class="zipcode" value="07628">Dumont, Bergen</option>
+
+<option class="zipcode" value="07630">Emerson, Bergen</option>
+
+<option class="zipcode" value="07631">Englewood, Bergen</option>
+
+<option class="zipcode" value="07632">Englewood Cliffs, Bergen</option>
+
+<option class="zipcode" value="07640">Harrington Park, Bergen</option>
+
+<option class="zipcode" value="07641">Haworth, Bergen</option>
+
+<option class="zipcode" value="07642">Hillsdale, Bergen</option>
+
+<option class="zipcode" value="07643">Little Ferry, Bergen</option>
+
+<option class="zipcode" value="07644">Lodi, Bergen</option>
+
+<option class="zipcode" value="07645">Montvale, Bergen</option>
+
+<option class="zipcode" value="07646">New Milford, Bergen</option>
+
+<option class="zipcode" value="07647">Northvale, Bergen</option>
+
+<option class="zipcode" value="07648">Norwood, Bergen</option>
+
+<option class="zipcode" value="07649">Oradell, Bergen</option>
+
+<option class="zipcode" value="07650">Palisades Park, Bergen</option>
+
+<option class="zipcode" value="07652">Paramus, Bergen</option>
+
+<option class="zipcode" value="07653">Paramus, Bergen</option>
+
+<option class="zipcode" value="07656">Park Ridge, Bergen</option>
+
+<option class="zipcode" value="07657">Ridgefield, Bergen</option>
+
+<option class="zipcode" value="07660">Ridgefield Park, Bergen</option>
+
+<option class="zipcode" value="07661">River Edge, Bergen</option>
+
+<option class="zipcode" value="07662">Rochelle Park, Bergen</option>
+
+<option class="zipcode" value="07663">Saddle Brook, Bergen</option>
+
+<option class="zipcode" value="07666">Teaneck, Bergen</option>
+
+<option class="zipcode" value="07670">Tenafly, Bergen</option>
+
+<option class="zipcode" value="07675">Westwood, Bergen</option>
+
+<option class="zipcode" value="07676">Township Of Washington, Bergen</option>
+
+<option class="zipcode" value="07677">Woodcliff Lake, Bergen</option>
+
+<option class="zipcode" value="07699">Teterboro, Bergen</option>
+
+<option class="zipcode" value="07701">Red Bank, Monmouth</option>
+
+<option class="zipcode" value="07702">Shrewsbury, Monmouth</option>
+
+<option class="zipcode" value="07703">Fort Monmouth, Monmouth</option>
+
+<option class="zipcode" value="07704">Fair Haven, Monmouth</option>
+
+<option class="zipcode" value="07709">Red Bank, Monmouth</option>
+
+<option class="zipcode" value="07710">Adelphia, Monmouth</option>
+
+<option class="zipcode" value="07711">Allenhurst, Monmouth</option>
+
+<option class="zipcode" value="07712">Asbury Park, Monmouth</option>
+
+<option class="zipcode" value="07715">Belmar, Monmouth</option>
+
+<option class="zipcode" value="07716">Atlantic Highlands, Monmouth</option>
+
+<option class="zipcode" value="07717">Avon By The Sea, Monmouth</option>
+
+<option class="zipcode" value="07718">Belford, Monmouth</option>
+
+<option class="zipcode" value="07719">Belmar, Monmouth</option>
+
+<option class="zipcode" value="07720">Bradley Beach, Monmouth</option>
+
+<option class="zipcode" value="07721">Cliffwood, Monmouth</option>
+
+<option class="zipcode" value="07722">Colts Neck, Monmouth</option>
+
+<option class="zipcode" value="07723">Deal, Monmouth</option>
+
+<option class="zipcode" value="07724">Eatontown, Monmouth</option>
+
+<option class="zipcode" value="07726">Englishtown, Monmouth</option>
+
+<option class="zipcode" value="07727">Farmingdale, Monmouth</option>
+
+<option class="zipcode" value="07728">Freehold, Monmouth</option>
+
+<option class="zipcode" value="07730">Hazlet, Monmouth</option>
+
+<option class="zipcode" value="07731">Howell, Monmouth</option>
+
+<option class="zipcode" value="07732">Highlands, Monmouth</option>
+
+<option class="zipcode" value="07733">Holmdel, Monmouth</option>
+
+<option class="zipcode" value="07734">Keansburg, Monmouth</option>
+
+<option class="zipcode" value="07735">Keyport, Monmouth</option>
+
+<option class="zipcode" value="07737">Leonardo, Monmouth</option>
+
+<option class="zipcode" value="07738">Lincroft, Monmouth</option>
+
+<option class="zipcode" value="07739">Little Silver, Monmouth</option>
+
+<option class="zipcode" value="07740">Long Branch, Monmouth</option>
+
+<option class="zipcode" value="07746">Marlboro, Monmouth</option>
+
+<option class="zipcode" value="07747">Matawan, Monmouth</option>
+
+<option class="zipcode" value="07748">Middletown, Monmouth</option>
+
+<option class="zipcode" value="07750">Monmouth Beach, Monmouth</option>
+
+<option class="zipcode" value="07751">Morganville, Monmouth</option>
+
+<option class="zipcode" value="07752">Navesink, Monmouth</option>
+
+<option class="zipcode" value="07753">Neptune, Monmouth</option>
+
+<option class="zipcode" value="07754">Neptune, Monmouth</option>
+
+<option class="zipcode" value="07755">Oakhurst, Monmouth</option>
+
+<option class="zipcode" value="07756">Ocean Grove, Monmouth</option>
+
+<option class="zipcode" value="07757">Oceanport, Monmouth</option>
+
+<option class="zipcode" value="07758">Port Monmouth, Monmouth</option>
+
+<option class="zipcode" value="07760">Rumson, Monmouth</option>
+
+<option class="zipcode" value="07762">Spring Lake, Monmouth</option>
+
+<option class="zipcode" value="07763">Tennent, Monmouth</option>
+
+<option class="zipcode" value="07764">West Long Branch, Monmouth</option>
+
+<option class="zipcode" value="07765">Wickatunk, Monmouth</option>
+
+<option class="zipcode" value="07777">Holmdel, Monmouth</option>
+
+<option class="zipcode" value="07799">Eatontown, Monmouth</option>
+
+<option class="zipcode" value="07801">Dover, Morris</option>
+
+<option class="zipcode" value="07802">Dover, Morris</option>
+
+<option class="zipcode" value="07803">Mine Hill, Morris</option>
+
+<option class="zipcode" value="07806">Picatinny Arsenal, Morris</option>
+
+<option class="zipcode" value="07820">Allamuchy, Warren</option>
+
+<option class="zipcode" value="07821">Andover, Sussex</option>
+
+<option class="zipcode" value="07822">Augusta, Sussex</option>
+
+<option class="zipcode" value="07823">Belvidere, Warren</option>
+
+<option class="zipcode" value="07825">Blairstown, Warren</option>
+
+<option class="zipcode" value="07826">Branchville, Sussex</option>
+
+<option class="zipcode" value="07827">Montague, Sussex</option>
+
+<option class="zipcode" value="07828">Budd Lake, Morris</option>
+
+<option class="zipcode" value="07829">Buttzville, Warren</option>
+
+<option class="zipcode" value="07830">Califon, Hunterdon</option>
+
+<option class="zipcode" value="07831">Changewater, Warren</option>
+
+<option class="zipcode" value="07832">Columbia, Warren</option>
+
+<option class="zipcode" value="07833">Delaware, Warren</option>
+
+<option class="zipcode" value="07834">Denville, Morris</option>
+
+<option class="zipcode" value="07836">Flanders, Morris</option>
+
+<option class="zipcode" value="07837">Glasser, Sussex</option>
+
+<option class="zipcode" value="07838">Great Meadows, Warren</option>
+
+<option class="zipcode" value="07839">Greendell, Sussex</option>
+
+<option class="zipcode" value="07840">Hackettstown, Warren</option>
+
+<option class="zipcode" value="07842">Hibernia, Morris</option>
+
+<option class="zipcode" value="07843">Hopatcong, Sussex</option>
+
+<option class="zipcode" value="07844">Hope, Warren</option>
+
+<option class="zipcode" value="07845">Ironia, Morris</option>
+
+<option class="zipcode" value="07846">Johnsonburg, Warren</option>
+
+<option class="zipcode" value="07847">Kenvil, Morris</option>
+
+<option class="zipcode" value="07848">Lafayette, Sussex</option>
+
+<option class="zipcode" value="07849">Lake Hopatcong, Morris</option>
+
+<option class="zipcode" value="07850">Landing, Morris</option>
+
+<option class="zipcode" value="07851">Layton, Sussex</option>
+
+<option class="zipcode" value="07852">Ledgewood, Morris</option>
+
+<option class="zipcode" value="07853">Long Valley, Morris</option>
+
+<option class="zipcode" value="07855">Middleville, Sussex</option>
+
+<option class="zipcode" value="07856">Mount Arlington, Morris</option>
+
+<option class="zipcode" value="07857">Netcong, Morris</option>
+
+<option class="zipcode" value="07860">Newton, Sussex</option>
+
+<option class="zipcode" value="07863">Oxford, Warren</option>
+
+<option class="zipcode" value="07865">Port Murray, Warren</option>
+
+<option class="zipcode" value="07866">Rockaway, Morris</option>
+
+<option class="zipcode" value="07869">Randolph, Morris</option>
+
+<option class="zipcode" value="07870">Schooleys Mountain, Morris</option>
+
+<option class="zipcode" value="07871">Sparta, Sussex</option>
+
+<option class="zipcode" value="07874">Stanhope, Sussex</option>
+
+<option class="zipcode" value="07875">Stillwater, Sussex</option>
+
+<option class="zipcode" value="07876">Succasunna, Morris</option>
+
+<option class="zipcode" value="07877">Swartswood, Sussex</option>
+
+<option class="zipcode" value="07878">Mount Tabor, Morris</option>
+
+<option class="zipcode" value="07879">Tranquility, Sussex</option>
+
+<option class="zipcode" value="07880">Vienna, Warren</option>
+
+<option class="zipcode" value="07881">Wallpack Center, Sussex</option>
+
+<option class="zipcode" value="07882">Washington, Warren</option>
+
+<option class="zipcode" value="07885">Wharton, Morris</option>
+
+<option class="zipcode" value="07890">Branchville, Sussex</option>
+
+<option class="zipcode" value="07901">Summit, Union</option>
+
+<option class="zipcode" value="07902">Summit, Union</option>
+
+<option class="zipcode" value="07920">Basking Ridge, Somerset</option>
+
+<option class="zipcode" value="07921">Bedminster, Somerset</option>
+
+<option class="zipcode" value="07922">Berkeley Heights, Union</option>
+
+<option class="zipcode" value="07924">Bernardsville, Somerset</option>
+
+<option class="zipcode" value="07926">Brookside, Morris</option>
+
+<option class="zipcode" value="07927">Cedar Knolls, Morris</option>
+
+<option class="zipcode" value="07928">Chatham, Morris</option>
+
+<option class="zipcode" value="07930">Chester, Morris</option>
+
+<option class="zipcode" value="07931">Far Hills, Somerset</option>
+
+<option class="zipcode" value="07932">Florham Park, Morris</option>
+
+<option class="zipcode" value="07933">Gillette, Morris</option>
+
+<option class="zipcode" value="07934">Gladstone, Somerset</option>
+
+<option class="zipcode" value="07935">Green Village, Morris</option>
+
+<option class="zipcode" value="07936">East Hanover, Morris</option>
+
+<option class="zipcode" value="07938">Liberty Corner, Somerset</option>
+
+<option class="zipcode" value="07939">Lyons, Somerset</option>
+
+<option class="zipcode" value="07940">Madison, Morris</option>
+
+<option class="zipcode" value="07945">Mendham, Morris</option>
+
+<option class="zipcode" value="07946">Millington, Morris</option>
+
+<option class="zipcode" value="07950">Greystone Park, Morris</option>
+
+<option class="zipcode" value="07950">Morris Plains, Morris</option>
+
+<option class="zipcode" value="07960">Morristown, Morris</option>
+
+<option class="zipcode" value="07961">Morristown, Morris</option>
+
+<option class="zipcode" value="07962">Morristown, Morris</option>
+
+<option class="zipcode" value="07963">Morristown, Morris</option>
+
+<option class="zipcode" value="07970">Mount Freedom, Morris</option>
+
+<option class="zipcode" value="07974">New Providence, Union</option>
+
+<option class="zipcode" value="07976">New Vernon, Morris</option>
+
+<option class="zipcode" value="07977">Peapack, Somerset</option>
+
+<option class="zipcode" value="07978">Pluckemin, Somerset</option>
+
+<option class="zipcode" value="07979">Pottersville, Hunterdon</option>
+
+<option class="zipcode" value="07980">Stirling, Morris</option>
+
+<option class="zipcode" value="07981">Whippany, Morris</option>
+
+<option class="zipcode" value="07983">Whippany, Morris</option>
+
+<option class="zipcode" value="07999">Whippany, Morris</option>
+
+<option class="zipcode" value="08001">Alloway, Salem</option>
+
+<option class="zipcode" value="08002">Cherry Hill, Camden</option>
+
+<option class="zipcode" value="08003">Cherry Hill, Camden</option>
+
+<option class="zipcode" value="08004">Atco, Camden</option>
+
+<option class="zipcode" value="08005">Barnegat, Ocean</option>
+
+<option class="zipcode" value="08006">Barnegat Light, Ocean</option>
+
+<option class="zipcode" value="08007">Barrington, Camden</option>
+
+<option class="zipcode" value="08008">Beach Haven, Ocean</option>
+
+<option class="zipcode" value="08009">Berlin, Camden</option>
+
+<option class="zipcode" value="08010">Beverly, Burlington</option>
+
+<option class="zipcode" value="08011">Birmingham, Burlington</option>
+
+<option class="zipcode" value="08012">Blackwood, Camden</option>
+
+<option class="zipcode" value="08014">Bridgeport, Gloucester</option>
+
+<option class="zipcode" value="08015">Browns Mills, Burlington</option>
+
+<option class="zipcode" value="08016">Burlington, Burlington</option>
+
+<option class="zipcode" value="08018">Cedar Brook, Camden</option>
+
+<option class="zipcode" value="08019">Chatsworth, Burlington</option>
+
+<option class="zipcode" value="08020">Clarksboro, Gloucester</option>
+
+<option class="zipcode" value="08021">Clementon, Camden</option>
+
+<option class="zipcode" value="08022">Columbus, Burlington</option>
+
+<option class="zipcode" value="08023">Deepwater, Salem</option>
+
+<option class="zipcode" value="08025">Ewan, Gloucester</option>
+
+<option class="zipcode" value="08026">Gibbsboro, Camden</option>
+
+<option class="zipcode" value="08027">Gibbstown, Gloucester</option>
+
+<option class="zipcode" value="08028">Glassboro, Gloucester</option>
+
+<option class="zipcode" value="08029">Glendora, Camden</option>
+
+<option class="zipcode" value="08030">Gloucester City, Camden</option>
+
+<option class="zipcode" value="08031">Bellmawr, Camden</option>
+
+<option class="zipcode" value="08032">Grenloch, Gloucester</option>
+
+<option class="zipcode" value="08033">Haddonfield, Camden</option>
+
+<option class="zipcode" value="08034">Cherry Hill, Camden</option>
+
+<option class="zipcode" value="08035">Haddon Heights, Camden</option>
+
+<option class="zipcode" value="08036">Hainesport, Burlington</option>
+
+<option class="zipcode" value="08037">Hammonton, Atlantic</option>
+
+<option class="zipcode" value="08038">Hancocks Bridge, Salem</option>
+
+<option class="zipcode" value="08039">Harrisonville, Gloucester</option>
+
+<option class="zipcode" value="08041">Jobstown, Burlington</option>
+
+<option class="zipcode" value="08042">Juliustown, Burlington</option>
+
+<option class="zipcode" value="08043">Voorhees, Camden</option>
+
+<option class="zipcode" value="08045">Lawnside, Camden</option>
+
+<option class="zipcode" value="08046">Willingboro, Burlington</option>
+
+<option class="zipcode" value="08048">Lumberton, Burlington</option>
+
+<option class="zipcode" value="08049">Magnolia, Camden</option>
+
+<option class="zipcode" value="08050">Manahawkin, Ocean</option>
+
+<option class="zipcode" value="08051">Mantua, Gloucester</option>
+
+<option class="zipcode" value="08052:Maple_Shade:Burlington">Maple Shade, Burlington</option>
+
+<option class="zipcode" value="08053:Marlton:Burlington">Marlton, Burlington</option>
+
+<option class="zipcode" value="08054:Mount_Laurel:Burlington">Mount Laurel, Burlington</option>
+
+<option class="zipcode" value="08055:Medford:Burlington">Medford, Burlington</option>
+
+<option class="zipcode" value="08056:Mickleton:Gloucester">Mickleton, Gloucester</option>
+
+<option class="zipcode" value="08057:Moorestown:Burlington">Moorestown, Burlington</option>
+
+<option class="zipcode" value="08059:Mount_Ephraim:Camden">Mount Ephraim, Camden</option>
+
+<option class="zipcode" value="08060:Mount Holly:Burlington">Mount Holly, Burlington</option>
+
+<option class="zipcode" value="08061:Mount_Royal:Gloucester">Mount Royal, Gloucester</option>
+
+<option class="zipcode" value="08062:Mullica_Hill:Gloucester">Mullica Hill, Gloucester</option>
+
+<option class="zipcode" value="08063:National_Park:Gloucester">National Park, Gloucester</option>
+
+<option class="zipcode" value="08064:New_Lisbon:Burlington">New Lisbon, Burlington</option>
+
+<option class="zipcode" value="08065:Palmyra:Burlington">Palmyra, Burlington</option>
+
+<option class="zipcode" value="08066:Paulsboro:Gloucester">Paulsboro, Gloucester</option>
+
+<option class="zipcode" value="08067:Pedricktown:Salem">Pedricktown, Salem</option>
+
+<option class="zipcode" value="08068:Pemberton:Burlington">Pemberton, Burlington</option>
+
+<option class="zipcode" value="08069:Penns_Grove:Salem">Penns Grove, Salem</option>
+
+<option class="zipcode" value="08070:Pennsville:Salem">Pennsville, Salem</option>
+
+<option class="zipcode" value="08071:Pitman:Gloucester">Pitman, Gloucester</option>
+
+<option class="zipcode" value="08072:Quinton:Salem">Quinton, Salem</option>
+
+<option class="zipcode" value="08073:Rancocas:Burlington">Rancocas, Burlington</option>
+
+<option class="zipcode" value="08074:Richwood:Gloucester">Richwood, Gloucester</option>
+
+<option class="zipcode" value="08075:Riverside:Burlington">Riverside, Burlington</option>
+
+<option class="zipcode" value="08076:Riverton:Burlington">Riverton, Burlington</option>
+
+<option class="zipcode" value="08077:Riverton:Burlington">Riverton, Burlington</option>
+
+<option class="zipcode" value="08078:Runnemede:Camden">Runnemede, Camden</option>
+
+<option class="zipcode" value="08079:Salem:Salem">Salem, Salem</option>
+
+<option class="zipcode" value="08080:Sewell:Gloucester">Sewell, Gloucester</option>
+
+<option class="zipcode" value="08081:Sicklerville:Camden">Sicklerville, Camden</option>
+
+<option class="zipcode" value="08083:Somerdale:Camden">Somerdale, Camden</option>
+
+<option class="zipcode" value="08084:Stratford:Camden">Stratford, Camden</option>
+
+<option class="zipcode" value="08085:Swedesboro:Gloucester">Swedesboro, Gloucester</option>
+
+<option class="zipcode" value="08086:Thorofare:Gloucester">Thorofare, Gloucester</option>
+
+<option class="zipcode" value="08087:Tuckerton:Ocean">Tuckerton, Ocean</option>
+
+<option class="zipcode" value="08088:Vincentown:Burlington">Vincentown, Burlington</option>
+
+<option class="zipcode" value="08089:Waterford_Works:Camden">Waterford Works, Camden</option>
+
+<option class="zipcode" value="08090:Wenonah:Gloucester">Wenonah, Gloucester</option>
+
+<option class="zipcode" value="08091">West Berlin, Camden</option>
+
+<option class="zipcode" value="08092">West Creek, Ocean</option>
+
+<option class="zipcode" value="08093">Westville, Gloucester</option>
+
+<option class="zipcode" value="08094">Williamstown, Gloucester</option>
+
+<option class="zipcode" value="08095">Winslow, Camden</option>
+
+<option class="zipcode" value="08096">Deptford, Gloucester</option>
+
+<option class="zipcode" value="08096">Woodbury, Gloucester</option>
+
+<option class="zipcode" value="08097">Woodbury Heights, Gloucester</option>
+
+<option class="zipcode" value="08098">Woodstown, Salem</option>
+
+<option class="zipcode" value="08099">Bellmawr, Camden</option>
+
+<option class="zipcode" value="08101">Camden, Camden</option>
+
+<option class="zipcode" value="08102">Camden, Camden</option>
+
+<option class="zipcode" value="08103">Camden, Camden</option>
+
+<option class="zipcode" value="08104">Camden, Camden</option>
+
+<option class="zipcode" value="08104">Haddon Township, Camden</option>
+
+<option class="zipcode" value="08105">Camden, Camden</option>
+
+<option class="zipcode" value="08106">Audubon, Camden</option>
+
+<option class="zipcode" value="08107">Haddon Township, Camden</option>
+
+<option class="zipcode" value="08107">Oaklyn, Camden</option>
+
+<option class="zipcode" value="08108">Collingswood, Camden</option>
+
+<option class="zipcode" value="08108">Haddon Township, Camden</option>
+
+<option class="zipcode" value="08109">Merchantville, Camden</option>
+
+<option class="zipcode" value="08110">Pennsauken, Camden</option>
+
+<option class="zipcode" value="08201">Absecon, Atlantic</option>
+
+<option class="zipcode" value="08202">Avalon, Cape May</option>
+
+<option class="zipcode" value="08203">Brigantine, Atlantic</option>
+
+<option class="zipcode" value="08204">Cape May, Cape May</option>
+
+<option class="zipcode" value="08205">Absecon, Atlantic</option>
+
+<option class="zipcode" value="08210">Cape May Court House, Cape May</option>
+
+<option class="zipcode" value="08212">Cape May Point, Cape May</option>
+
+<option class="zipcode" value="08213">Cologne, Atlantic</option>
+
+<option class="zipcode" value="08214">Dennisville, Cape May</option>
+
+<option class="zipcode" value="08215">Egg Harbor City, Atlantic</option>
+
+<option class="zipcode" value="08217">Elwood, Atlantic</option>
+
+<option class="zipcode" value="08218">Goshen, Cape May</option>
+
+<option class="zipcode" value="08219">Green Creek, Cape May</option>
+
+<option class="zipcode" value="08220">Leeds Point, Atlantic</option>
+
+<option class="zipcode" value="08221">Linwood, Atlantic</option>
+
+<option class="zipcode" value="08223">Marmora, Cape May</option>
+
+<option class="zipcode" value="08224">New Gretna, Burlington</option>
+
+<option class="zipcode" value="08225">Northfield, Atlantic</option>
+
+<option class="zipcode" value="08226">Ocean City, Cape May</option>
+
+<option class="zipcode" value="08230">Ocean View, Cape May</option>
+
+<option class="zipcode" value="08231">Oceanville, Atlantic</option>
+
+<option class="zipcode" value="08232">Pleasantville, Atlantic</option>
+
+<option class="zipcode" value="08234">Egg Harbor Township, Atlantic</option>
+
+<option class="zipcode" value="08240">Pomona, Atlantic</option>
+
+<option class="zipcode" value="08241">Port Republic, Atlantic</option>
+
+<option class="zipcode" value="08242">Rio Grande, Cape May</option>
+
+<option class="zipcode" value="08243">Sea Isle City, Cape May</option>
+
+<option class="zipcode" value="08244">Somers Point, Atlantic</option>
+
+<option class="zipcode" value="08245">South Dennis, Cape May</option>
+
+<option class="zipcode" value="08246">South Seaville, Cape May</option>
+
+<option class="zipcode" value="08247">Stone Harbor, Cape May</option>
+
+<option class="zipcode" value="08248">Strathmere, Cape May</option>
+
+<option class="zipcode" value="08250">Tuckahoe, Cape May</option>
+
+<option class="zipcode" value="08251">Villas, Cape May</option>
+
+<option class="zipcode" value="08252">Whitesboro, Cape May</option>
+
+<option class="zipcode" value="08260">Wildwood, Cape May</option>
+
+<option class="zipcode" value="08270">Woodbine, Cape May</option>
+
+<option class="zipcode" value="08302">Bridgeton, Cumberland</option>
+
+<option class="zipcode" value="08310">Buena, Atlantic</option>
+
+<option class="zipcode" value="08311">Cedarville, Cumberland</option>
+
+<option class="zipcode" value="08312">Clayton, Gloucester</option>
+
+<option class="zipcode" value="08313">Deerfield Street, Cumberland</option>
+
+<option class="zipcode" value="08314">Delmont, Cumberland</option>
+
+<option class="zipcode" value="08315">Dividing Creek, Cumberland</option>
+
+<option class="zipcode" value="08316">Dorchester, Cumberland</option>
+
+<option class="zipcode" value="08317">Dorothy, Atlantic</option>
+
+<option class="zipcode" value="08318">Elmer, Salem</option>
+
+<option class="zipcode" value="08319">Estell Manor, Atlantic</option>
+
+<option class="zipcode" value="08320">Fairton, Cumberland</option>
+
+<option class="zipcode" value="08321">Fortescue, Cumberland</option>
+
+<option class="zipcode" value="08322">Franklinville, Gloucester</option>
+
+<option class="zipcode" value="08323">Greenwich, Cumberland</option>
+
+<option class="zipcode" value="08324">Heislerville, Cumberland</option>
+
+<option class="zipcode" value="08326">Landisville, Atlantic</option>
+
+<option class="zipcode" value="08327">Leesburg, Cumberland</option>
+
+<option class="zipcode" value="08328">Malaga, Gloucester</option>
+
+<option class="zipcode" value="08329">Mauricetown, Cumberland</option>
+
+<option class="zipcode" value="08330">Mays Landing, Atlantic</option>
+
+<option class="zipcode" value="08332">Millville, Cumberland</option>
+
+<option class="zipcode" value="08340">Milmay, Atlantic</option>
+
+<option class="zipcode" value="08341">Minotola, Atlantic</option>
+
+<option class="zipcode" value="08342">Mizpah, Atlantic</option>
+
+<option class="zipcode" value="08343">Monroeville, Salem</option>
+
+<option class="zipcode" value="08344">Newfield, Gloucester</option>
+
+<option class="zipcode" value="08345">Newport, Cumberland</option>
+
+<option class="zipcode" value="08346">Newtonville, Atlantic</option>
+
+<option class="zipcode" value="08347">Norma, Salem</option>
+
+<option class="zipcode" value="08348">Port Elizabeth, Cumberland</option>
+
+<option class="zipcode" value="08349">Port Norris, Cumberland</option>
+
+<option class="zipcode" value="08350">Richland, Atlantic</option>
+
+<option class="zipcode" value="08352">Rosenhayn, Cumberland</option>
+
+<option class="zipcode" value="08353">Shiloh, Cumberland</option>
+
+<option class="zipcode" value="08360">Vineland, Cumberland</option>
+
+<option class="zipcode" value="08361">Vineland, Cumberland</option>
+
+<option class="zipcode" value="08362">Vineland, Cumberland</option>
+
+<option class="zipcode" value="08401">Atlantic City, Atlantic</option>
+
+<option class="zipcode" value="08402">Margate City, Atlantic</option>
+
+<option class="zipcode" value="08403">Longport, Atlantic</option>
+
+<option class="zipcode" value="08404">Atlantic City, Atlantic</option>
+
+<option class="zipcode" value="08405">Atlantic City, Atlantic</option>
+
+<option class="zipcode" value="08406">Ventnor City, Atlantic</option>
+
+<option class="zipcode" value="08501:Allentown:Monmouth">Allentown, Monmouth</option>
+
+<option class="zipcode" value="08502:Belle_Mead:Somerset">Belle Mead, Somerset</option>
+
+<option class="zipcode" value="08504:Blawenburg:Somerset">Blawenburg, Somerset</option>
+
+<option class="zipcode" value="08505:Bordentown:Burlington">Bordentown, Burlington</option>
+
+<option class="zipcode" value="08510:Millstone_Township:Monmouth">Millstone Township, Monmouth</option>
+
+<option class="zipcode" value="08511:Cookstown:Burlington">Cookstown, Burlington</option>
+
+<option class="zipcode" value="08512:Cranbury:Middlesex">Cranbury, Middlesex</option>
+
+<option class="zipcode" value="08514:Cream_Ridge:Monmouth">Cream Ridge, Monmouth</option>
+
+<option class="zipcode" value="08515:Chesterfield:Burlington">Chesterfield, Burlington</option>
+
+<option class="zipcode" value="08518:Florence:Burlington">Florence, Burlington</option>
+
+<option class="zipcode" value="08520:Hightstown:Mercer">Hightstown, Mercer</option>
+
+<option class="zipcode" value="08525:Hopewell:Mercer">Hopewell, Mercer</option>
+
+<option class="zipcode" value="08526:Imlaystown:Monmouth">Imlaystown, Monmouth</option>
+
+<option class="zipcode" value="08527:Jackson:Ocean">Jackson, Ocean</option>
+
+<option class="zipcode" value="08528:Kingston:Somerset">Kingston, Somerset</option>
+
+<option class="zipcode" value="08530:Lambertville:Hunterdon">Lambertville, Hunterdon</option>
+
+<option class="zipcode" value="08533:New_Egypt:Ocean">New Egypt, Ocean</option>
+
+<option class="zipcode" value="08534:Pennington:Mercer">Pennington, Mercer</option>
+
+<option class="zipcode" value="08535:Perrineville:Monmouth">Perrineville, Monmouth</option>
+
+<option class="zipcode" value="08536:Plainsboro:Middlesex">Plainsboro, Middlesex</option>
+
+<option class="zipcode" value="08540:Princeton:Mercer">Princeton, Mercer</option>
+
+<option class="zipcode" value="08541:Princeton:Mercer">Princeton, Mercer</option>
+
+<option class="zipcode" value="08542:Princeton:Mercer">Princeton, Mercer</option>
+
+<option class="zipcode" value="08543:Princeton:Mercer">Princeton, Mercer</option>
+
+<option class="zipcode" value="08544:Princeton:Mercer">Princeton, Mercer</option>
+
+<option class="zipcode" value="08550:Princeton_Junction:Mercer">Princeton Junction, Mercer</option>
+
+<option class="zipcode" value="08551:Ringoes:Hunterdon">Ringoes, Hunterdon</option>
+
+<option class="zipcode" value="08553:Rocky_Hill:Somerset">Rocky Hill, Somerset</option>
+
+<option class="zipcode" value="08554:Roebling:Burlington">Roebling, Burlington</option>
+
+<option class="zipcode" value="08555:Roosevelt:Monmouth">Roosevelt, Monmouth</option>
+
+<option class="zipcode" value="08556:Rosemont:Hunterdon">Rosemont, Hunterdon</option>
+
+<option class="zipcode" value="08557:Sergeantsville:Hunterdon">Sergeantsville, Hunterdon</option>
+
+<option class="zipcode" value="08558:Skillman:Somerset">Skillman, Somerset</option>
+
+<option class="zipcode" value="08559:Stockton:Hunterdon">Stockton, Hunterdon</option>
+
+<option class="zipcode" value="08560:Titusville:Mercer">Titusville, Mercer</option>
+
+<option class="zipcode" value="08561:Windsor:Mercer">Windsor, Mercer</option>
+
+<option class="zipcode" value="08562:Wrightstown:Burlington">Wrightstown, Burlington</option>
+
+<option class="zipcode" value="08601:Trenton:Mercer">Trenton, Mercer</option>
+
+<option class="zipcode" value="08640:Fort_Dix:Burlington">Fort Dix, Burlington</option>
+
+<option class="zipcode" value="08641:Trenton:Burlington">Trenton, Burlington</option>
+
+<option class="zipcode" value="08701:Lakewood:Ocean">Lakewood, Ocean</option>
+
+<option class="zipcode" value="08720:Allenwood:Monmouth">Allenwood, Monmouth</option>
+
+<option class="zipcode" value="08721:Bayville:Ocean">Bayville, Ocean</option>
+
+<option class="zipcode" value="08722:Beachwood:Ocean">Beachwood, Ocean</option>
+
+<option class="zipcode" value="08723:Brick:Ocean">Brick, Ocean</option>
+
+<option class="zipcode" value="08724:Brick:Ocean">Brick, Ocean</option>
+
+<option class="zipcode" value="08730:Brielle:Monmouth">Brielle, Monmouth</option>
+
+<option class="zipcode" value="08731:Forked_River:Ocean">Forked River, Ocean</option>
+
+<option class="zipcode" value="08732:Island_Heights:Ocean">Island Heights, Ocean</option>
+
+<option class="zipcode" value="08733:Lakehurst:Ocean">Lakehurst, Ocean</option>
+
+<option class="zipcode" value="08734:Lanoka_Harbor:Ocean">Lanoka Harbor, Ocean</option>
+
+<option class="zipcode" value="08735:Lavallette:Ocean">Lavallette, Ocean</option>
+
+<option class="zipcode" value="08736:Manasquan:Monmouth">Manasquan, Monmouth</option>
+
+<option class="zipcode" value="08738:Mantoloking:Ocean">Mantoloking, Ocean</option>
+
+<option class="zipcode" value="08739:Normandy_Beach:Ocean">Normandy Beach, Ocean</option>
+
+<option class="zipcode" value="08740:Ocean_Gate:Ocean">Ocean Gate, Ocean</option>
+
+<option class="zipcode" value="08741:Pine_Beach:Ocean">Pine Beach, Ocean</option>
+
+<option class="zipcode" value="08742:Point_Pleasant_Beach:OceanPoint Pleasant Beach, Ocean</option>
+
+<option class="zipcode" value="08750:Sea_Girt:Monmouth">Sea Girt, Monmouth</option>
+
+<option class="zipcode" value="08751:Seaside_Heights:Ocean">Seaside Heights, Ocean</option>
+
+<option class="zipcode" value="08752:Seaside_Park:Ocean">Seaside Park, Ocean</option>
+
+<option class="zipcode" value="08753:Toms_River:Ocean">Toms River, Ocean</option>
+
+<option class="zipcode" value="08754:Toms_River:Ocean">Toms River, Ocean</option>
+
+<option class="zipcode" value="08755:Toms_River:Ocean">Toms River, Ocean</option>
+
+<option class="zipcode" value="08756:Toms_River:Ocean">Toms River, Ocean</option>
+
+<option class="zipcode" value="08757:Toms_River:Ocean">Toms River, Ocean</option>
+
+<option class="zipcode" value="08758:Waretown:Ocean">Waretown, Ocean</option>
+
+<option class="zipcode" value="08759:Manchester_Township:Ocean">Manchester Township, Ocean</option>
+
+<option class="zipcode" value="08801:Annandale:Hunterdon">Annandale, Hunterdon</option>
+
+<option class="zipcode" value="08802:Asbury:Hunterdon">Asbury, Hunterdon</option>
+
+<option class="zipcode" value="08803:Baptistown:Hunterdon">Baptistown, Hunterdon</option>
+
+<option class="zipcode" value="08804:Bloomsbury:Hunterdon">Bloomsbury, Hunterdon</option>
+
+<option class="zipcode" value="08805:Bound_Brook:Somerset">Bound Brook, Somerset</option>
+
+<option class="zipcode" value="08807:Bridgewater:Somerset">Bridgewater, Somerset</option>
+
+<option class="zipcode" value="08808:Broadway:Warren">Broadway, Warren</option>
+
+<option class="zipcode" value="08809:Clinton:Hunterdon">Clinton, Hunterdon</option>
+
+<option class="zipcode" value="08810:Dayton:Middlesex">Dayton, Middlesex</option>
+
+<option class="zipcode" value="08812:Dunellen:Middlesex">Dunellen, Middlesex</option>
+
+<option class="zipcode" value="08816:East_Brunswick:Middlesex">East Brunswick, Middlesex</option>
+
+<option class="zipcode" value="08817:Edison:Middlesex">Edison, Middlesex</option>
+
+<option class="zipcode" value="08818:Edison:Middlesex">Edison, Middlesex</option>
+
+<option class="zipcode" value="08820:Edison:Middlesex">Edison, Middlesex</option>
+
+<option class="zipcode" value="08821:Flagtown:Somerset">Flagtown, Somerset</option>
+
+<option class="zipcode" value="08822:Flemington:Hunterdon">Flemington, Hunterdon</option>
+
+<option class="zipcode" value="08823:Franklin_Park:Somerset">Franklin Park, Somerset</option>
+
+<option class="zipcode" value="08824:Kendall_Park:Middlesex">Kendall Park, Middlesex</option>
+
+<option class="zipcode" value="08825:Frenchtown:Hunterdon">Frenchtown, Hunterdon</option>
+
+<option class="zipcode" value="08826:Glen_Gardner:Hunterdon">Glen Gardner, Hunterdon</option>
+
+<option class="zipcode" value="08827:Hampton:Hunterdon">Hampton, Hunterdon</option>
+
+<option class="zipcode" value="08828:Helmetta:Middlesex">Helmetta, Middlesex</option>
+
+<option class="zipcode" value="08829:High_Bridge:Hunterdon">High Bridge, Hunterdon</option>
+
+<option class="zipcode" value="08830:Iselin:Middlesex">Iselin, Middlesex</option>
+
+<option class="zipcode" value="08831:Monroe_Township:Middlesex">Monroe Township, Middlesex</option>
+
+<option class="zipcode" value="08832:Keasbey:Middlesex">Keasbey, Middlesex</option>
+
+<option class="zipcode" value="08833:Lebanon:Hunterdon">Lebanon, Hunterdon</option>
+
+<option class="zipcode" value="08834:Little_York:Hunterdon">Little York, Hunterdon</option>
+
+<option class="zipcode" value="08835:Manville:Somerset">Manville, Somerset</option>
+
+<option class="zipcode" value="08836:Martinsville:Somerset">Martinsville, Somerset</option>
+
+<option class="zipcode" value="08837:Edison:Middlesex">Edison, Middlesex</option>
+
+<option class="zipcode" value="08840:Metuchen:Middlesex">Metuchen, Middlesex</option>
+
+<option class="zipcode" value="08844:Hillsborough:Somerset">Hillsborough, Somerset</option>
+
+<option class="zipcode" value="08846:Middlesex:Middlesex">Middlesex, Middlesex</option>
+
+<option class="zipcode" value="08848:Milford:Hunterdon">Milford, Hunterdon</option>
+
+<option class="zipcode" value="08850:Milltown:Middlesex">Milltown, Middlesex</option>
+
+<option class="zipcode" value="08852:Monmouth_Junction:Middlesex">Monmouth Junction, Middlesex</option>
+
+<option class="zipcode" value="08853:Neshanic_Station:Somerset">Neshanic Station, Somerset</option>
+
+<option class="zipcode" value="08854:Piscataway:Middlesex">Piscataway, Middlesex</option>
+
+<option class="zipcode" value="08855:Piscataway:Middlesex">Piscataway, Middlesex</option>
+
+<option class="zipcode" value="08857:Old_Bridge:Middlesex">Old Bridge, Middlesex</option>
+
+<option class="zipcode" value="08858:Oldwick:Hunterdon">Oldwick, Hunterdon</option>
+
+<option class="zipcode" value="08859:Parlin:Middlesex">Parlin, Middlesex</option>
+
+<option class="zipcode" value="08861:Perth_Amboy:Middlesex">Perth Amboy, Middlesex</option>
+
+<option class="zipcode" value="08862:Perth_Amboy:Middlesex">Perth Amboy, Middlesex</option>
+
+<option class="zipcode" value="08863:Fords:Middlesex">Fords, Middlesex</option>
+
+<option class="zipcode" value="08865:Phillipsburg:Warren">Phillipsburg, Warren</option>
+
+<option class="zipcode" value="08867:Pittstown:Hunterdon">Pittstown, Hunterdon</option>
+
+<option class="zipcode" value="08868:Quakertown:Hunterdon">Quakertown, Hunterdon</option>
+
+<option class="zipcode" value="08869:Raritan:Somerset">Raritan, Somerset</option>
+
+<option class="zipcode" value="08870:Readington:Hunterdon">Readington, Hunterdon</option>
+
+<option class="zipcode" value="08871:Sayreville:Middlesex">Sayreville, Middlesex</option>
+
+<option class="zipcode" value="08872:Sayreville:Middlesex">Sayreville, Middlesex</option>
+
+<option class="zipcode" value="08873:Somerset:Somerset">Somerset, Somerset</option>
+
+<option class="zipcode" value="08875:Somerset:Somerset">Somerset, Somerset</option>
+
+<option class="zipcode" value="08876:Somerville:Somerset">Somerville, Somerset</option>
+
+<option class="zipcode" value="08879:South_Amboy:Middlesex">South Amboy, Middlesex</option>
+
+<option class="zipcode" value="08880:South_Bound_Brook:Somerset">South Bound Brook, Somerset</option>
+
+<option class="zipcode" value="08882:South_River:Middlesex">South River, Middlesex</option>
+
+<option class="zipcode" value="08884:Spotswood:Middlesex">Spotswood, Middlesex</option>
+
+<option class="zipcode" value="08885:Stanton:Hunterdon">Stanton, Hunterdon</option>
+
+<option class="zipcode" value="08886:Stewartsville:Warren">Stewartsville, Warren</option>
+
+<option class="zipcode" value="08887:Three_Bridges:Hunterdon">Three Bridges, Hunterdon</option>
+
+<option class="zipcode" value="08888:Whitehouse:Hunterdon">Whitehouse, Hunterdon</option>
+
+<option class="zipcode" value="08889:Whitehouse_Station:Hunterdon">Whitehouse Station, Hunterdon</option>
+
+<option class="zipcode" value="08890:Zarephath:Somerset">Zarephath, Somerset</option>
+
+<option class="zipcode" value="08896:Raritan:Somerset">Raritan, Somerset</option>
+
+<option class="zipcode" value="08899:Edison:Middlesex">Edison, Middlesex</option>
+
+<option class="zipcode" value="08901:New_Brunswick:Middlesex">New Brunswick, Middlesex</option>
+
+<option class="zipcode" value="08902:North_Brunswick:Middlesex">North Brunswick, Middlesex</option>
+
+<option class="zipcode" value="08903:New_Brunswick:Middlesex">New Brunswick, Middlesex</option>
+
+<option class="zipcode" value="08904:Highland_Park:Middlesex">Highland Park, Middlesex</option>
+
+<option class="zipcode" value="08905:New_Brunswick:Middlesex">New Brunswick, Middlesex</option>
+
+<option class="zipcode" value="08906:New_Brunswick:Middlesex">New Brunswick, Middlesex</option>
+
+<option class="zipcode" value="08922:New_Brunswick:Middlesex">New Brunswick, Middlesex</option>
+
+<option class="zipcode" value="08933:New_Brunswick:Middlesex">New Brunswick, Middlesex</option>
+
+<option class="zipcode" value="08988:New_Brunswick:Middlesex">New Brunswick, Middlesex</option>
+
+<option class="zipcode" value="08989:New_Brunswick:Middlesex">New Brunswick, Middlesex</option>
